@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\82103\\Desktop\\\uAE40\uC601\uC7AC \uD559\uC2B5\\summer\\chapter2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FAC0409-F9DA-4646-82BE-3D513131FA17}|Assignment0211\\Assignment0211.vcxproj|C:\\Users\\82103\\Desktop\\\uAE40\uC601\uC7AC \uD559\uC2B5\\summer\\chapter2\\Assignment0211\\assign0211.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6FAC0409-F9DA-4646-82BE-3D513131FA17}|Assignment0211\\Assignment0211.vcxproj|solutionrelative:Assignment0211\\assign0211.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF590DF4-88E2-4AA9-A5DB-0AAC5384DFFE}|Asignment0210\\Asignment0210.vcxproj|C:\\Users\\82103\\Desktop\\\uAE40\uC601\uC7AC \uD559\uC2B5\\summer\\chapter2\\Asignment0210\\assign10.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DF590DF4-88E2-4AA9-A5DB-0AAC5384DFFE}|Asignment0210\\Asignment0210.vcxproj|solutionrelative:Asignment0210\\assign10.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E463FCD1-3298-4BC7-926A-1B3D23945215}|Assignment0209\\Assignment0209.vcxproj|C:\\Users\\82103\\Desktop\\\uAE40\uC601\uC7AC \uD559\uC2B5\\summer\\chapter2\\Assignment0209\\assign09.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E463FCD1-3298-4BC7-926A-1B3D23945215}|Assignment0209\\Assignment0209.vcxproj|solutionrelative:Assignment0209\\assign09.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{105E8171-397C-4A3C-B035-BC5F70E90B4B}|Assignment0208\\Assignment0208.vcxproj|C:\\Users\\82103\\Desktop\\\uAE40\uC601\uC7AC \uD559\uC2B5\\summer\\chapter2\\Assignment0208\\assign08.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{105E8171-397C-4A3C-B035-BC5F70E90B4B}|Assignment0208\\Assignment0208.vcxproj|solutionrelative:Assignment0208\\assign08.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C890F1-B6ED-4EE6-A240-D36CDDEFD38A}|Assignment0206\\Assignment0206.vcxproj|C:\\Users\\82103\\Desktop\\\uAE40\uC601\uC7AC \uD559\uC2B5\\summer\\chapter2\\Assignment0206\\assign06.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{04C890F1-B6ED-4EE6-A240-D36CDDEFD38A}|Assignment0206\\Assignment0206.vcxproj|solutionrelative:Assignment0206\\assign06.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5967370C-6BAD-4F90-9D6A-00FCEC78821F}|Assignment0207\\Assignment0207.vcxproj|C:\\Users\\82103\\Desktop\\\uAE40\uC601\uC7AC \uD559\uC2B5\\summer\\chapter2\\Assignment0207\\assign07.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5967370C-6BAD-4F90-9D6A-00FCEC78821F}|Assignment0207\\Assignment0207.vcxproj|solutionrelative:Assignment0207\\assign07.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11069765-72CB-4E39-A69C-951C6159E09E}|Assignment0201\\Assignment0201.vcxproj|C:\\Users\\82103\\Desktop\\\uAE40\uC601\uC7AC \uD559\uC2B5\\summer\\chapter2\\Assignment0201\\assign01.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{11069765-72CB-4E39-A69C-951C6159E09E}|Assignment0201\\Assignment0201.vcxproj|solutionrelative:Assignment0201\\assign01.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B12F71BA-BB61-47D8-BC98-3719A3EF9015}|Assignment0205\\Assignment0205.vcxproj|C:\\Users\\82103\\Desktop\\\uAE40\uC601\uC7AC \uD559\uC2B5\\summer\\chapter2\\Assignment0205\\assign05.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B12F71BA-BB61-47D8-BC98-3719A3EF9015}|Assignment0205\\Assignment0205.vcxproj|solutionrelative:Assignment0205\\assign05.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B3CCBA-86F8-4ACF-9021-31DA3AD43C6F}|Assignment0204\\Assignment0204.vcxproj|C:\\Users\\82103\\Desktop\\\uAE40\uC601\uC7AC \uD559\uC2B5\\summer\\chapter2\\Assignment0204\\Assign04.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B7B3CCBA-86F8-4ACF-9021-31DA3AD43C6F}|Assignment0204\\Assignment0204.vcxproj|solutionrelative:Assignment0204\\Assign04.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC288298-0E18-4B30-A01A-15E20FFCA2C5}|Assign0203\\Assign0203.vcxproj|C:\\Users\\82103\\Desktop\\\uAE40\uC601\uC7AC \uD559\uC2B5\\summer\\chapter2\\Assign0203\\assign03.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EC288298-0E18-4B30-A01A-15E20FFCA2C5}|Assign0203\\Assign0203.vcxproj|solutionrelative:Assign0203\\assign03.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20DBFC43-DD8B-4C0C-B802-AAA8C12AF72C}|Assignment2002\\Assignment2002.vcxproj|C:\\Users\\82103\\Desktop\\\uAE40\uC601\uC7AC \uD559\uC2B5\\summer\\chapter2\\Assignment2002\\assign02.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20DBFC43-DD8B-4C0C-B802-AAA8C12AF72C}|Assignment2002\\Assignment2002.vcxproj|solutionrelative:Assignment2002\\assign02.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "assign0211.c",
+              "DocumentMoniker": "C:\\Users\\82103\\Desktop\\\uAE40\uC601\uC7AC \uD559\uC2B5\\summer\\chapter2\\Assignment0211\\assign0211.c",
+              "RelativeDocumentMoniker": "Assignment0211\\assign0211.c",
+              "ToolTip": "C:\\Users\\82103\\Desktop\\\uAE40\uC601\uC7AC \uD559\uC2B5\\summer\\chapter2\\Assignment0211\\assign0211.c",
+              "RelativeToolTip": "Assignment0211\\assign0211.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-01T14:28:40.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "assign10.c",
+              "DocumentMoniker": "C:\\Users\\82103\\Desktop\\\uAE40\uC601\uC7AC \uD559\uC2B5\\summer\\chapter2\\Asignment0210\\assign10.c",
+              "RelativeDocumentMoniker": "Asignment0210\\assign10.c",
+              "ToolTip": "C:\\Users\\82103\\Desktop\\\uAE40\uC601\uC7AC \uD559\uC2B5\\summer\\chapter2\\Asignment0210\\assign10.c",
+              "RelativeToolTip": "Asignment0210\\assign10.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-01T14:26:06.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "assign09.c",
+              "DocumentMoniker": "C:\\Users\\82103\\Desktop\\\uAE40\uC601\uC7AC \uD559\uC2B5\\summer\\chapter2\\Assignment0209\\assign09.c",
+              "RelativeDocumentMoniker": "Assignment0209\\assign09.c",
+              "ToolTip": "C:\\Users\\82103\\Desktop\\\uAE40\uC601\uC7AC \uD559\uC2B5\\summer\\chapter2\\Assignment0209\\assign09.c",
+              "RelativeToolTip": "Assignment0209\\assign09.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-01T14:23:57.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "assign08.c",
+              "DocumentMoniker": "C:\\Users\\82103\\Desktop\\\uAE40\uC601\uC7AC \uD559\uC2B5\\summer\\chapter2\\Assignment0208\\assign08.c",
+              "RelativeDocumentMoniker": "Assignment0208\\assign08.c",
+              "ToolTip": "C:\\Users\\82103\\Desktop\\\uAE40\uC601\uC7AC \uD559\uC2B5\\summer\\chapter2\\Assignment0208\\assign08.c",
+              "RelativeToolTip": "Assignment0208\\assign08.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-01T14:19:08.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "assign07.c",
+              "DocumentMoniker": "C:\\Users\\82103\\Desktop\\\uAE40\uC601\uC7AC \uD559\uC2B5\\summer\\chapter2\\Assignment0207\\assign07.c",
+              "RelativeDocumentMoniker": "Assignment0207\\assign07.c",
+              "ToolTip": "C:\\Users\\82103\\Desktop\\\uAE40\uC601\uC7AC \uD559\uC2B5\\summer\\chapter2\\Assignment0207\\assign07.c",
+              "RelativeToolTip": "Assignment0207\\assign07.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-01T14:15:10.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "assign06.c",
+              "DocumentMoniker": "C:\\Users\\82103\\Desktop\\\uAE40\uC601\uC7AC \uD559\uC2B5\\summer\\chapter2\\Assignment0206\\assign06.c",
+              "RelativeDocumentMoniker": "Assignment0206\\assign06.c",
+              "ToolTip": "C:\\Users\\82103\\Desktop\\\uAE40\uC601\uC7AC \uD559\uC2B5\\summer\\chapter2\\Assignment0206\\assign06.c",
+              "RelativeToolTip": "Assignment0206\\assign06.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-01T14:12:35.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "assign05.c",
+              "DocumentMoniker": "C:\\Users\\82103\\Desktop\\\uAE40\uC601\uC7AC \uD559\uC2B5\\summer\\chapter2\\Assignment0205\\assign05.c",
+              "RelativeDocumentMoniker": "Assignment0205\\assign05.c",
+              "ToolTip": "C:\\Users\\82103\\Desktop\\\uAE40\uC601\uC7AC \uD559\uC2B5\\summer\\chapter2\\Assignment0205\\assign05.c",
+              "RelativeToolTip": "Assignment0205\\assign05.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-01T14:10:01.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "assign04.c",
+              "DocumentMoniker": "C:\\Users\\82103\\Desktop\\\uAE40\uC601\uC7AC \uD559\uC2B5\\summer\\chapter2\\Assignment0204\\assign04.c",
+              "RelativeDocumentMoniker": "Assignment0204\\assign04.c",
+              "ToolTip": "C:\\Users\\82103\\Desktop\\\uAE40\uC601\uC7AC \uD559\uC2B5\\summer\\chapter2\\Assignment0204\\assign04.c",
+              "RelativeToolTip": "Assignment0204\\assign04.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-01T14:06:46.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "assign03.c",
+              "DocumentMoniker": "C:\\Users\\82103\\Desktop\\\uAE40\uC601\uC7AC \uD559\uC2B5\\summer\\chapter2\\Assign0203\\assign03.c",
+              "RelativeDocumentMoniker": "Assign0203\\assign03.c",
+              "ToolTip": "C:\\Users\\82103\\Desktop\\\uAE40\uC601\uC7AC \uD559\uC2B5\\summer\\chapter2\\Assign0203\\assign03.c",
+              "RelativeToolTip": "Assign0203\\assign03.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-01T14:02:37.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "assign02.c",
+              "DocumentMoniker": "C:\\Users\\82103\\Desktop\\\uAE40\uC601\uC7AC \uD559\uC2B5\\summer\\chapter2\\Assignment2002\\assign02.c",
+              "RelativeDocumentMoniker": "Assignment2002\\assign02.c",
+              "ToolTip": "C:\\Users\\82103\\Desktop\\\uAE40\uC601\uC7AC \uD559\uC2B5\\summer\\chapter2\\Assignment2002\\assign02.c",
+              "RelativeToolTip": "Assignment2002\\assign02.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-01T14:00:21.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "assign01.c",
+              "DocumentMoniker": "C:\\Users\\82103\\Desktop\\\uAE40\uC601\uC7AC \uD559\uC2B5\\summer\\chapter2\\Assignment0201\\assign01.c",
+              "RelativeDocumentMoniker": "Assignment0201\\assign01.c",
+              "ToolTip": "C:\\Users\\82103\\Desktop\\\uAE40\uC601\uC7AC \uD559\uC2B5\\summer\\chapter2\\Assignment0201\\assign01.c",
+              "RelativeToolTip": "Assignment0201\\assign01.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-01T13:58:56.598Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
