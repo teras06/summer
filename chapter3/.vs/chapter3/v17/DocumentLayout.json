@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\82103\\Desktop\\\uAE40\uC601\uC7AC \uD559\uC2B5\\summer\\chapter3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F236BF3F-7DC2-4A24-AA5E-24B575C86BF1}|Assignment0310\\Assignment0310.vcxproj|C:\\Users\\82103\\Desktop\\\uAE40\uC601\uC7AC \uD559\uC2B5\\summer\\chapter3\\Assignment0310\\assign10.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F236BF3F-7DC2-4A24-AA5E-24B575C86BF1}|Assignment0310\\Assignment0310.vcxproj|solutionrelative:Assignment0310\\assign10.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A620B2-58E0-4ECB-9290-8E0B7FC96E21}|Assignment0311\\Assignment0311.vcxproj|C:\\Users\\82103\\Desktop\\\uAE40\uC601\uC7AC \uD559\uC2B5\\summer\\chapter3\\Assignment0311\\assign11.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{00A620B2-58E0-4ECB-9290-8E0B7FC96E21}|Assignment0311\\Assignment0311.vcxproj|solutionrelative:Assignment0311\\assign11.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32590DE-A102-408B-A4F4-60314A444E3F}|Assignment0306\\Assignment0306.vcxproj|C:\\Users\\82103\\Desktop\\\uAE40\uC601\uC7AC \uD559\uC2B5\\summer\\chapter3\\Assignment0306\\assign06.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C32590DE-A102-408B-A4F4-60314A444E3F}|Assignment0306\\Assignment0306.vcxproj|solutionrelative:Assignment0306\\assign06.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "assign10.c",
+              "DocumentMoniker": "C:\\Users\\82103\\Desktop\\\uAE40\uC601\uC7AC \uD559\uC2B5\\summer\\chapter3\\Assignment0310\\assign10.c",
+              "RelativeDocumentMoniker": "Assignment0310\\assign10.c",
+              "ToolTip": "C:\\Users\\82103\\Desktop\\\uAE40\uC601\uC7AC \uD559\uC2B5\\summer\\chapter3\\Assignment0310\\assign10.c",
+              "RelativeToolTip": "Assignment0310\\assign10.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-02T07:27:15.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "assign11.c",
+              "DocumentMoniker": "C:\\Users\\82103\\Desktop\\\uAE40\uC601\uC7AC \uD559\uC2B5\\summer\\chapter3\\Assignment0311\\assign11.c",
+              "RelativeDocumentMoniker": "Assignment0311\\assign11.c",
+              "ToolTip": "C:\\Users\\82103\\Desktop\\\uAE40\uC601\uC7AC \uD559\uC2B5\\summer\\chapter3\\Assignment0311\\assign11.c",
+              "RelativeToolTip": "Assignment0311\\assign11.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-02T07:25:55.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "assign06.c",
+              "DocumentMoniker": "C:\\Users\\82103\\Desktop\\\uAE40\uC601\uC7AC \uD559\uC2B5\\summer\\chapter3\\Assignment0306\\assign06.c",
+              "RelativeDocumentMoniker": "Assignment0306\\assign06.c",
+              "ToolTip": "C:\\Users\\82103\\Desktop\\\uAE40\uC601\uC7AC \uD559\uC2B5\\summer\\chapter3\\Assignment0306\\assign06.c",
+              "RelativeToolTip": "Assignment0306\\assign06.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-02T07:23:48.009Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
