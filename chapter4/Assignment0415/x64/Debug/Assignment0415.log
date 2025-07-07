@@ -1,0 +1,6 @@
+﻿  assign15.c
+C:\Users\82103\Desktop\김영재 학습\summer\chapter4\Assignment0415\assign15.c(39,9): warning C4566: 유니버설 문자 이름 '\u008B'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\82103\Desktop\김영재 학습\summer\chapter4\Assignment0415\assign15.c(39,9): warning C4566: 유니버설 문자 이름 '\u009A'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\82103\Desktop\김영재 학습\summer\chapter4\Assignment0415\assign15.c(48,9): warning C4566: 유니버설 문자 이름 '\u008B'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\82103\Desktop\김영재 학습\summer\chapter4\Assignment0415\assign15.c(48,9): warning C4566: 유니버설 문자 이름 '\u009A'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+  Assignment0415.vcxproj -> C:\Users\82103\Desktop\김영재 학습\summer\chapter4\x64\Debug\Assignment0415.exe
