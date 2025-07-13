@@ -1,0 +1,4 @@
+﻿  assign19.c
+C:\Users\82103\Desktop\김영재 학습\summer\chapter6\Assignment0619\assign19.c(31,11): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82103\Desktop\김영재 학습\summer\chapter6\Assignment0619\assign19.c(29,12): warning C4101: 'data' :참조되지 않은 지역 변수입니다.
+  Assignment0619.vcxproj -> C:\Users\82103\Desktop\김영재 학습\summer\chapter6\x64\Debug\Assignment0619.exe
