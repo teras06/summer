@@ -1,0 +1,4 @@
+﻿  assign01.c
+C:\Users\82103\Desktop\김영재 학습\summer\chapter8\assignment0801\assign01.c(30,10): warning C4477: 'printf' : 서식 문자열 '%X'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'double *'입니다.
+C:\Users\82103\Desktop\김영재 학습\summer\chapter8\assignment0801\assign01.c(30,10): warning C4313: 'printf': 서식 문자열의 '%X'이(가) double *' 형식의 인수 2과(와) 충돌합니다.
+  assignment0801.vcxproj -> C:\Users\82103\Desktop\김영재 학습\summer\chapter8\x64\Debug\assignment0801.exe

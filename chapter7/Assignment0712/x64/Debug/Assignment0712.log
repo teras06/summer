@@ -1,0 +1,4 @@
+﻿  assign12.c
+C:\Users\82103\Desktop\김영재 학습\summer\chapter7\Assignment0712\assign12.c(28,5): warning C4013: 'reservation'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\82103\Desktop\김영재 학습\summer\chapter7\Assignment0712\assign12.c(73,1): warning C4716: 'reservation': 값을 반환해야 합니다.
+  Assignment0712.vcxproj -> C:\Users\82103\Desktop\김영재 학습\summer\chapter7\x64\Debug\Assignment0712.exe
