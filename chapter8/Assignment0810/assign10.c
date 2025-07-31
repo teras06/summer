@@ -14,7 +14,7 @@
 #include <stdio.h>
 
 void Print(void);
-void add_arr(int (*arr1)[ARR_SIZE], int (*arr2)[ARR_SIZE], int (*arr3)[ARR_SIZE]);
+void add_matrix(int (*arr1)[ARR_SIZE], int (*arr2)[ARR_SIZE], int (*arr3)[ARR_SIZE]);
 
 int main()
 {
@@ -49,7 +49,7 @@ void Print(void)
         printf("\n");
     }
 
-    add_arr(arr1, arr2, arr3);
+    add_matrix(arr1, arr2, arr3);
 
     printf("x + y За·Д:\n");
     for (i = 0; i < ARR_SIZE; i++)
@@ -62,7 +62,7 @@ void Print(void)
     }
 }
 
-void add_arr(int (*arr1)[ARR_SIZE], int (*arr2)[ARR_SIZE], int (*arr3)[ARR_SIZE])
+void add_matrix(int (*arr1)[ARR_SIZE], int (*arr2)[ARR_SIZE], int (*arr3)[ARR_SIZE])
 {
     int i, j;
 
